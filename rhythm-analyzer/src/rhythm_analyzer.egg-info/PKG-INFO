@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: rhythm-analyzer
+Version: 0.1.0
+Summary: Offline Librosa onset analyzer for Unity rhythm-game levels
+Requires-Python: >=3.11
+Requires-Dist: librosa==0.11.0
+Requires-Dist: matplotlib>=3.9
+Requires-Dist: numpy>=2.0
+Requires-Dist: soundfile>=0.12
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"

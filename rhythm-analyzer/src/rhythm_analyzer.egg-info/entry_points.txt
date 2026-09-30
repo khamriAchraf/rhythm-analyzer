@@ -1,0 +1,2 @@
+[console_scripts]
+rhythm-analyzer = rhythm_analyzer.cli:main
